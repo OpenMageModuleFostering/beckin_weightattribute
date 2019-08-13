@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Beckin_WeightAttribute",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Are you tired of those extra weight attribute zeros displaying on the product page? Wish there was a way to remove them? Now you can with this free extension.",
+    "authors": [
+    {
+        "name": "Christopher Silvey",
+        "email": "dsilvey@rocketmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

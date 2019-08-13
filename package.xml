@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+    <name>Beckin_WeightAttribute</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Are you tired of those extra weight attribute zeros displaying on the product page? Wish there was a way to remove them? Now you can with this free extension.</summary>
+    <description>This Weight Attribute Extension easily strips those unwanted zeros from the product additional information tab located on the product page. &#xD;
+&#xD;
+This extension formats both Grams and Pounds. &#xD;
+&#xD;
+See the following for an example.&#xD;
+&#xD;
+Instead of displaying:&#xD;
+Weight 1.2500&#xD;
+&#xD;
+This extension will change this to:&#xD;
+Weight 1.25 lbs</description>
+    <notes>This extension has been tested and marked as (Stable).</notes>
+    <authors><author><name>Christopher Silvey</name><user>tech0925</user><email>dsilvey@rocketmail.com</email></author></authors>
+    <date>2012-12-21</date>
+    <time>20:00:11</time>
+    <contents><target name="magecommunity"><dir name="Beckin"><dir name="WeightAttribute"><dir name="Block"><dir name="Catalog"><dir name="Product"><dir name="View"><file name="Attributes.php" hash="4e2ce1107fc421d14b185deb260b821f"/></dir></dir></dir><file name="Donation.php" hash="790d2845de0898cb0d7c6bbdb7f3ad2a"/></dir><dir name="Helper"><file name="Data.php" hash="f9f6c2f684449162f5a87546a97a99fe"/></dir><dir name="etc"><file name="adminhtml.xml" hash="49f12a6c9db1c58c8bfff4e7a6d7ce51"/><file name="config.xml" hash="6495d1208b32cd1fa815e35f6b170b9f"/><file name="system.xml" hash="a51ee0bc8f796921899af54ff9ebe18d"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Beckin_WeightAttribute.xml" hash="5587f7599242ef2d2a9d2b535fd17105"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
