@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Are you tired of those extra weight attribute zeros displaying on the product page? Wish there was a way to remove them? Now you can with this free extension.
